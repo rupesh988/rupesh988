@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @rupesh
+- 👀 I’m interested in electronics,iot and some sort of cs,anime,manga
+- 🌱 I’m currently learning ... computer science
+- 💞️ I’m looking to collaborate on (not yet)
+- 📫 How to reach me   inrupesh.in@gmail.com
+- 😄 Pronouns: he/him/god
+- ⚡ Fun fact:  it's not fun right?/
