@@ -3,5 +3,4 @@
 - 🌱 I’m currently learning ... computer science
 - 💞️ I’m looking to collaborate on (not yet)
 - 📫 How to reach me   inrupesh.in@gmail.com
-- 😄 Pronouns: he/him/god
 - ⚡ Fun fact: follow through the dark>
