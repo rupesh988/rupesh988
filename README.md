@@ -4,8 +4,7 @@
 ## About Me
 
 I'm a passionate developer with a love for Computer Science and Electronics. 🎓💻 I also have a soft spot for Taylor Swift's music, and I'm an avid fan of Anime and Manga. 🎶🎨
-
-![Taylor Swift](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2I1Y3czYzU4MHVoYWlwYjFjZnFjcTRsdXg4ZHExYzVwb2kydDd0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BPLv6jRzwA4SPX0HUl/giphy.gif)
+Crafting Dreams.
 
 ## 🛠️ Technologies & Tools
 
@@ -15,9 +14,8 @@ I'm a passionate developer with a love for Computer Science and Electronics. �
 ## 🎯 Current Projects
 
 - **CS Projects**: Echo-Blogging platform.
-- **Electronics Projects**: Designing a smart home automation system.
 
-## 🌟 Favorite Taylor Swift Songs
+
 
 - "Cardigan"
 - "Blank Space"
