@@ -5,7 +5,8 @@
 
 i like building things..
 
-react native - currently working
+currently working on Agentic Workflowws
+
 
 ## 📫 Connect with Me
 
